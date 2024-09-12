@@ -1,0 +1,59 @@
+#container{
+    width: 1400px;
+    height: 100vh;
+    display: flex;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+    border-width: 30px;
+    border-left: 100px;
+    border-right: 100px;
+}
+#esquerdo{
+    background-color: #d9d9d9;
+    width: 560px;
+    height: 100vh;
+    display: center;
+}
+#direito{
+    background-color: white;
+    width: 840px;
+    height: 100vh;
+}
+#textd{
+    margin: 50px;
+}
+#foto{
+    margin: 50px;
+}
+body{
+    font-size: 21px;
+    line-height: 29px;
+}
+#nome{
+    font-family: 'Ruda';
+    font-size: xx-large;
+}
+#c{
+    font-family: 'nunito';
+}
+#f{
+    font-family: 'nunito';
+    font-size: larger;
+}
+#h{
+    font-family: 'nunito';
+    font-size: larger;
+}
+#i{
+    font-family: 'nunito';
+    font-size: larger;
+}
+#e{
+    font-family: 'nunito';
+    font-size: larger;
+}
+#s{
+    font-family: 'nunito';
+    font-size: larger;
+}
